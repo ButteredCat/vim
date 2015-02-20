@@ -1,2 +1,2 @@
 # vim
-vim config files and bundles
+My vim config files and bundles
