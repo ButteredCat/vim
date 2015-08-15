@@ -14,5 +14,5 @@ fi
 if test -e ${VIM_TARGT}; then
 	echo "${VIM_TARGT} already exists! Please remove first."
 else
-	cp -r .vimrc ${HOME}/
+	cp -r .vim ${HOME}/
 fi
